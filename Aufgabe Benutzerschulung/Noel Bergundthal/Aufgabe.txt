@@ -1,0 +1,9 @@
+1. Schön, dass du es geschafft hast das Repository zu klonen ;)
+2. Bevor du mit dem Bearbeiten des Auftrages weiterfährst, erstelle und wechsle bitte auf einen neuen Branch mit dem Namen "M214_nachname-vorname".
+3. Solltest du dich nun auf dem neuen Branch befinden, korrigiere bei folgendem Satz die Gross-/Kleinschreibung:
+
+ich Habe Sehr Viel spass Mit GIT.
+
+4. Übertrage nun die getätigte Änderung mit der Funktion Commit auf den eben erstellten Branch, als Commit-Message verwende bitte "Rechtschreibung korrigiert".
+5. Pushe den lokalen Branch mit den Änderungen auf das Remote-Repository.
+6. Erstelle einen Pull-Request und merge deine Änderungen in den Master-Branch auf dem Remote.
