@@ -3,6 +3,7 @@
 3. Solltest du dich nun auf dem neuen Branch befinden, korrigiere bei folgendem Satz die Gross-/Kleinschreibung:
 
 ich Habe Sehr Viel spass Mit GIT.
+Test
 
 4. Übertrage nun die getätigte Änderung mit der Funktion Commit auf den eben erstellten Branch, als Commit-Message verwende bitte "Rechtschreibung korrigiert".
 5. Pushe den lokalen Branch mit den Änderungen auf das Remote-Repository.
